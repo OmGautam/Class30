@@ -1,2 +1,2 @@
-# Class30
-In this class I made the pigs vanish.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
